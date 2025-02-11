@@ -1,7 +1,6 @@
-
 html{
     background-color: rgb(29, 116, 167);
-    color: aliceblue;
+    color: rgb(2, 78, 73);
     font-size: 2em;
     font-weight: 300;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -67,6 +66,6 @@ html{
     background: linear-gradient(to top,  #ffffff 0%,#EFEFEF 100%);
   }
   
-  .hl {
-    background: #ffc600;
+  .h1 {
+    background: #03e0e0;
   }
